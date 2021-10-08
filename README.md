@@ -18,7 +18,7 @@
 <br/> <br/> 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=NovaaaKing)](https://github.com/NovaaaKing) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaaaKing&layout=compact)](https://github.com/NovaaaKing)
+[![github stats](https://github-readme-stats.vercel.app/api?username=NovaaaKing&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/NovaaaKing) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaaaKing&layout=compact)](https://github.com/NovaaaKing)
 
 
 <!---
