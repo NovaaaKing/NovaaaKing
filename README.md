@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Music Bots
 
 <br/>
-<a href="https://discord.com/users/548192290003353631">
+<a href="https://discord.com/users/852846761109225482">
  <img align="left" alt="!  NovaaaKing#4811 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://github.com/NovaaaKing/">
