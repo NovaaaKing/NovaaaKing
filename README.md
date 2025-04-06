@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Music Bots
 
 <br/>
-<a href="https://discord.com/users/852846761109225482">
+<a href="https://twitter.com/felixx_ez/">
  <img align="left" alt="!  Felixx_ez Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/NovaaaKing/">
